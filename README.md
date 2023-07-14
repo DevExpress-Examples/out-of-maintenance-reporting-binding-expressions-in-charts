@@ -1,16 +1,14 @@
 <!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/642266728/2023.1)
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T1166846)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
+Automatically generated badges
 <!-- default badges end -->
 
-# Reporting for WinForms - Display Average Values in Charts
+# Reporting for WinForms - Display Average Values within a Chart
 
-The following example displays a constant line that shows average product prices in each category.
+The following example displays a constant line (average product price) for a given product category (when using DevExpress Reports for WinForms).
 
 ![XRCharts](Images/xrchart.png)
 
-In this example, the constant line is bound to the following expression:
+In this example, the chart’s constant line is bound to the following expression:
 
 ```expression
 [CategoriesProducts].Avg([UnitPrice])
