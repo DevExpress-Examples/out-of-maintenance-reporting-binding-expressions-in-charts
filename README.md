@@ -1,5 +1,4 @@
 <!-- default badges list -->
-Automatically generated badges
 <!-- default badges end -->
 
 # Reporting for WinForms - Display Average Values within a Chart
